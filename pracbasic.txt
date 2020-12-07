@@ -2,4 +2,4 @@ hello world
 
 adding another line 
 
-3rd line to check merge (merge tool)
+this is a remote repository
